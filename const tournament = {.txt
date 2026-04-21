@@ -1,0 +1,8 @@
+const tournament = {
+  teams: ["India", "Australia"],
+  match: {
+    team1: "India",
+    team2: "Australia",
+    score: "250/8"
+  }
+};
